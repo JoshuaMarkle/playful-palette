@@ -1,6 +1,8 @@
 <h1 align="center">Playful Color Pallete</h1>
 <p align="center">A simple colorscheme that is colorful and fun</p>
 
+<img src="https://github.com/JoshuaMarkle/playful-palette/blob/main/Screenshot_2023-09-30-16-38-47_1366x768.png?raw=true">
+
 ## 🎨 Color Reference
 
 <table>
